@@ -2,6 +2,7 @@
 
 This is a basic example for Docker Compose that shows how to test and deploy a small architecture with multiple micro-services.
 
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
 
 ## Resources
 
